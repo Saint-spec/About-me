@@ -1,1 +1,1 @@
-# vetsWhoCodeCapstone
+# A basic about-me page
